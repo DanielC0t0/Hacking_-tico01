@@ -1,0 +1,115 @@
+Adware: Software que muestra publicidad no deseada, a menudo con malware.
+AES (Advanced Encryption Standard) - Algoritmo de cifrado usado en VPNs/Wi-Fi.
+APT (Advanced Persistent Threat) - Ataques prolongados por grupos organizados.
+Ataque de Fuerza Bruta: Método para descifrar contraseñas probando combinaciones.
+ARP Spoofing: Ataque para redirigir tráfico en una red local (Man-in-the-Middle).
+Autenticación 2FA (Two-Factor Authentication): Doble verificación de identidad.
+AWS Security - Herramientas de seguridad en Amazon Web Services.
+Backdoor: Acceso oculto a un sistema, evitando controles de seguridad.
+BeEF (Browser Exploitation Framework) - Explota vulnerabilidades en navegadores.
+BitLocker - Herramienta de cifrado de disco en Windows.
+Black Box Testing - Pentesting sin conocimiento interno del sistema.
+Blue Team - Equipo defensivo en ciberseguridad.
+Botnet: Red de dispositivos infectados controlados por un atacante.
+Bug Bounty: Programas que recompensan por reportar vulnerabilidades.
+Buffer Overflow: Exploit que desborda memoria para ejecutar código malicioso.
+C2 (Command & Control) - Servidor que controla bots en una botnet.
+Certificado SSL/TLS - Autentica y cifra conexiones web.
+CIA Triad (Confidentiality, Integrity, Availability): Principios básicos de seguridad.
+CIS Controls - 20 controles críticos de seguridad.
+Cloud Security - Seguridad en entornos cloud (AWS, Azure, GCP).
+CSRF (Cross-Site Request Forgery) - Ejecuta acciones no autorizadas en sitios web.
+CVE (Common Vulnerabilities and Exposures): Base de datos de vulnerabilidades conocidas.
+Criptografía: Ciencia de cifrar/descifrar información.
+CSRF (Cross-Site Request Forgery): Ataque que ejecuta acciones no autorizadas en sitios web.
+DAST (Dynamic Application Security Testing) - Pruebas de seguridad en apps en ejecución.
+DDoS (Distributed Denial of Service): Ataque que satura un servicio con tráfico falso.
+DNSSEC - Extensión de seguridad para DNS.
+Docker Security - Buenas prácticas para contenedores.
+DNS Spoofing: Manipulación de consultas DNS para redirigir tráfico.
+Dark Web: Parte de internet no indexada, accesible con navegadores como Tor.
+Doxing: Exponer información privada de una persona sin consentimiento.
+EDR (Endpoint Detection and Response) - Monitorea amenazas en endpoints.
+ELF (Executable and Linkable Format) - Formato de ejecutables en Linux.
+Exploit Kit - Paquete de exploits automatizados (ej: Angler).
+Exploit: Código que aprovecha una vulnerabilidad.
+Ethical Hacker: Profesional que hackea sistemas con permiso para mejorar su seguridad.
+Ettercap: Herramienta para ataques MITM (Man-in-the-Middle).
+Exfiltración de Datos: Robo de información confidencial.
+FIDO2 - Estándar para autenticación sin contraseñas.
+Firmware Hacking - Explotación de firmware en routers/dispositivos IoT.
+Forensia Digital - Análisis post-incidente.
+Firewall: Sistema que filtra tráfico de red no autorizado.
+FOCA: Herramienta para extraer metadatos de archivos (PDF, Word).
+Fuzzing: Técnica para encontrar fallos enviando datos aleatorios a aplicaciones.
+Forensia Digital: Análisis de evidencias en dispositivos después de un ataque.
+Ghidra - Framework de ingeniería inversa (NSA).
+GPG (GNU Privacy Guard) - Cifrado de correos/archivos.
+Google Dorks: Búsquedas avanzadas para encontrar información expuesta.
+GPG (GNU Privacy Guard): Software de cifrado para correos y archivos.
+Gray Hat Hacker: Entre el hacking ético y el malicioso (sin permiso, pero sin daño).
+Hash: Función criptográfica que convierte datos en una cadena única.
+Honeypot: Trampa para detectar y estudiar ataques.
+HTTP/HTTPS: Protocolos web (HTTPS = cifrado SSL/TLS).
+Hypervisor Escape - Exploit para salir de una máquina virtual.
+IAM (Identity and Access Management) - Gestión de identidades en cloud.
+ICS/SCADA Security - Seguridad en sistemas industriales.
+IDS/IPS (Intrusion Detection/Prevention System): Detecta/bloquea ataques en red.
+IoT (Internet of Things): Dispositivos conectados (cámaras, termostatos).
+IP Spoofing: Falsificar la dirección IP de origen.
+John the Ripper: Herramienta para cracking de contraseñas.
+JSON Web Token (JWT): Método de autenticación en APIs.
+Kali Linux: Distro Linux para pentesting (incluye Nmap, Metasploit, Wireshark).
+Keylogger: Software/hardware que registra teclas pulsadas.
+Kerberos: Protocolo de autenticación en redes corporativas.
+Kiosk Escape: Exploit para salir de modo kiosko en dispositivos públicos.
+LDAP Injection - Ataque a directorios LDAP.
+LFI (Local File Inclusion): Vulnerabilidad que lee archivos locales en un servidor.
+Lateral Movement: Técnicas para moverse dentro de una red comprometida.
+Malware: Software malicioso (virus, ransomware, spyware).
+Metasploit: Framework para desarrollo y ejecución de exploits.
+MITRE ATT&CK: Marco de tácticas de ataque usadas por hackers.
+MAC Address: Identificador único de hardware en redes.
+Mobile Security - Seguridad en Android/iOS (OWASP Mobile Top 10).
+Nmap: Herramienta para escaneo de puertos y redes (-sS, -A).
+Netcat ("Swiss Army Knife"): Herramienta para debugging y conexiones remotas.
+NIST Framework - Marco de ciberseguridad del NIST.
+OSINT (Open Source Intelligence): Inteligencia con fuentes públicas (Google, redes sociales).
+OAuth: Protocolo para autorización en APIs (ej: "Iniciar sesión con Google").
+OWASP ZAP: Herramienta para testing de seguridad en aplicaciones web.
+OWASP: Proyecto abierto para seguridad web (Top 10 vulnerabilidades).
+Phishing: Engaño para robar credenciales (ej: emails falsos).
+Payload: Carga maliciosa en un exploit (ej: Meterpreter en Metasploit).
+Pentesting (Penetration Testing): Simulación de ataques para evaluar seguridad.
+QEMU: Emulador de máquinas virtuales (usado en exploits).
+Query Injection: Inyección de código en consultas (SQL, LDAP).
+Quantum Cryptography - Criptografía post-cuántica.
+Ransomware: Malware que cifra archivos y exige rescate.
+Rootkit: Malware que oculta procesos maliciosos.
+Reverse Shell: Conexión remota desde una máquina comprometida al atacante.
+Red Team Exercises - Simulaciones de ataques realistas.
+Shodan: Buscador de dispositivos IoT expuestos.
+SIEM (Security Information and Event Management) - Monitoreo de seguridad.
+SQL Injection: Inyección de código en bases de datos.
+SSH (Secure Shell): Protocolo para conexiones remotas cifradas.
+Threat Intelligence - Inteligencia sobre amenazas.
+Tor: Navegador para anonimato en la dark web.
+Traceroute: Rastrea la ruta de paquetes en una red.
+Trojan (Caballo de Troya): Malware disfrazado de software legítimo.
+UAC (User Account Control): Mecanismo de seguridad en Windows.
+Unicornscan - Escáner de puertos avanzado.
+URL Obfuscation: Enmascarar enlaces maliciosos.
+USB Drop Attack: Dejar USBs infectados para comprometer sistemas.
+VPN (Virtual Private Network): Conexión cifrada para privacidad.
+VLAN Hopping: Ataque para saltar entre VLANs.
+Volatility: Framework para análisis forense en memoria RAM.
+Vulnerabilidad Zero-Day: Fallo desconocido sin parche disponible.
+Vulnerability Management - Gestión de vulnerabilidades.
+WAF (Web Application Firewall): Firewall especializado en proteger aplicaciones web.
+WPS (Wi-Fi Protected Setup): Protocolo vulnerable en routers
+Wireshark: Analizador de tráfico de red.
+WHOIS: Consulta información de dominios.
+XSS (Cross-Site Scripting): Inyectar scripts maliciosos en páginas web.
+X.509: Estándar para certificados digitales.
+Zigbee Hacking: Ataques a dispositivos IoT que usan Zigbee.
+Zombie: Dispositivo infectado parte de una botnet.
